@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Hello world!");
         int a =5;
         int b =10;
-        int temp= a+b;
-        System.out.println(temp);
+        int c= a+b;
+        System.out.println(c);
     }
 }
